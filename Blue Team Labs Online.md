@@ -22,10 +22,10 @@ Questo repository documenta il mio percorso di apprendimento pratico nell'ambito
 
 ## Write-up disponibili
 
-| Attività | Categoria | Stato |
-|---|---|---|
-| [Melissa](Challenges/Melissa/Melissa.md) | Challenge | Complete |
-| [Privilege Escalation](Challenges/Log%20Analysis%20-%20Privilege%20Escalation/Log%20Analysis%20%E2%80%94%20Privilege%20Escalation.md) | Challenge | Complete |
+| Nome | Categoria | Attività | Stato |
+|---|---|---|---|
+| [Melissa](Challenges/Melissa/Melissa.md) | Challenge | Reverse Engineering | Complete |
+| [Privilege Escalation](Challenges/Log%20Analysis%20-%20Privilege%20Escalation/Log%20Analysis%20%E2%80%94%20Privilege%20Escalation.md) | Challenge | CTF-Like | Complete |
 | Nuovi write-up in arrivo | — | In corso |
 
 ## Note
